@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-PHP + Symfony or Node.js + Express/NestJS/...
+Node.js + NestJS
 
 ## Problems
 
@@ -34,7 +34,7 @@ PHP + Symfony or Node.js + Express/NestJS/...
 
     Given an array of tasks,
 
-    * Write a function to find the oldest tasks.
+    * Write a function to find the oldest 3 tasks.
     * Write a function that retrieves all tasks, sorted in descending order based on the priority and creation moment.
 
 4. **Problem-solving and coding:**
@@ -58,13 +58,13 @@ PHP + Symfony or Node.js + Express/NestJS/...
 
 6. **Testing and debugging:**
 
-   * Write the unit tests for steps 3 and 4 and explain how you would debug the function if the test fails.
+   * Write the unit tests for steps 3 and 4 and explain how you would debug the functions if the test fails.
 
 7. **Version control:**
 
-   Commit your current changes in Git and push them to a remote repository following these instructions:
+   Commit your current changes in Git following these instructions:
 
    * Create a new branch with your name as the branch name
    * Commit your changes to the new branch
-   * Push your commits to the remote repository
-   * Create a pull-request on Github
+   * Compress the project directory (please, remove the ``node_module`` dir)
+   * Send it to our tech email (provided during the interview)
